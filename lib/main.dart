@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:pegawai/page/home.dart';
+import 'package:pegawai/page/home_page.dart';
 import 'package:pegawai/route/page_routes.dart';
 import 'package:pegawai/route/route_name.dart';
 
